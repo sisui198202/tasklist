@@ -14,3 +14,4 @@
 taskスクリプト検証
 taskスクリプト検証
 taskスクリプト検証2
+C:\Users\user\Desktop\UWS\Git\GitTaskCommit.uws
