@@ -19,3 +19,5 @@ C:\Users\user\Desktop\UWS\Git\GitTaskCommit.uws
 -----06日作業分-----
 
 検証作業11
+-----15日作業分-----
+
