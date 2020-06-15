@@ -1,3 +1,4 @@
+-----15日作業分-----
 作業内容を書いていく。
 
 作業1
@@ -15,3 +16,5 @@ taskスクリプト検証
 taskスクリプト検証
 taskスクリプト検証2
 C:\Users\user\Desktop\UWS\Git\GitTaskCommit.uws
+-----06日作業分-----
+
