@@ -24,3 +24,4 @@
 <li>コピーした行で条件分岐して1行:callとかあってもファイルが開ける、複数行:各行ファイルを一気に開けるように変更</li>
 <li>gitignoreファイルを勉強</li>
 <li>//url取得を未検証、C:\Users\user\Desktop\UWS\UwscWebDriver-master\SiteConnect\Keywordsearch_ConnectToFrom.uws</li>
+<li>webdriveフォルダーを整理、各カテゴリーに分けた。</li>
