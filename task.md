@@ -25,3 +25,4 @@
 <li>gitignoreファイルを勉強</li>
 <li>//url取得を未検証、C:\Users\user\Desktop\UWS\UwscWebDriver-master\SiteConnect\Keywordsearch_ConnectToFrom.uws</li>
 <li>webdriveフォルダーを整理、各カテゴリーに分けた。</li>
+<li>webdriveリファレンスにアクセスできるよう、ショットカットキー設定</li>
