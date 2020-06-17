@@ -26,3 +26,4 @@
 <li>//url取得を未検証、C:\Users\user\Desktop\UWS\UwscWebDriver-master\SiteConnect\Keywordsearch_ConnectToFrom.uws</li>
 <li>webdriveフォルダーを整理、各カテゴリーに分けた。</li>
 <li>webdriveリファレンスにアクセスできるよう、ショットカットキー設定</li>
+<li>webdriveリファレンス読込、chromeアクティブ上でのスクリプトコードの改良を実施。</li>
