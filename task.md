@@ -27,3 +27,5 @@
 <li>webdriveリファレンスにアクセスできるよう、ショットカットキー設定</li>
 <li>webdriveリファレンス読込、chromeアクティブ上でのスクリプトコードの改良を実施。</li>
 <li>//url取得を未検証、C:\Users\user\Desktop\UWS\UwscWebDriver-master\SiteConnect\Keywordsearch_ConnectToFrom.uws</li>
+-----22日作業分-----
+<li>パソコンが壊れた為、新しいパソコンでアプリのインストールやuwsc、autohotkey等の作業環境構築</li>
