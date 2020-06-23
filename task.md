@@ -29,3 +29,4 @@
 <li>//url取得を未検証、C:\Users\user\Desktop\UWS\UwscWebDriver-master\SiteConnect\Keywordsearch_ConnectToFrom.uws</li>
 -----22日作業分-----
 <li>パソコンが壊れた為、新しいパソコンでアプリのインストールやuwsc、autohotkey等の作業環境構築</li>
+-----23日作業分-----
