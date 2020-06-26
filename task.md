@@ -61,3 +61,4 @@
 -----27日作業分-----
 
 <li>gitコマンドのcommitのautohotkey設定追加する</li>
+<li>phpの環境構築終了</li>
