@@ -64,3 +64,4 @@
 <li>phpの環境構築終了</li>
 <li>composerインストール、cmdでバージョン確認完了</li>
 <li>node.jsインストール完了</li>
+<li>Screenpresso設定、ファイル設定</li>
