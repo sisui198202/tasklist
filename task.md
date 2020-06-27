@@ -65,3 +65,4 @@
 <li>composerインストール、cmdでバージョン確認完了</li>
 <li>node.jsインストール完了</li>
 <li>Screenpresso設定、ファイル設定</li>
+<li>SublimeとVscodeプラグイン管理ファイル作成</li>
