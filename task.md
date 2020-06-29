@@ -66,3 +66,7 @@
 <li>node.jsインストール完了</li>
 <li>Screenpresso設定、ファイル設定</li>
 <li>SublimeとVscodeプラグイン管理ファイル作成</li>
+
+-----29日作業分-----
+
+<li>谷口さんjavascript講座やる。</li>
