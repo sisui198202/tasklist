@@ -97,3 +97,4 @@ Category\AutohotkeyCategoryParts.txt
 Category\AutohotkeyClassParts.txt</li>
 <li>evernoteノートブック整理とタグを整理した。</li>
 <li>chrome拡張機能を洗い出し、ファイルで管理することにした。</li>
+<li>evernoteのパスワードブック内のnoteもすべて整理した。</li>
