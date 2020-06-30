@@ -95,3 +95,4 @@ Category\UwscExcel.txt
 Category\Autohotkey.txt
 Category\AutohotkeyCategoryParts.txt
 Category\AutohotkeyClassParts.txt</li>
+<li>evernoteノートブック整理とタグを整理した。</li>
