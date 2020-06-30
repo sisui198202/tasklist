@@ -81,3 +81,17 @@
 
 <li>evernoteノートブックタグ整理する。</li>
 <li>形態素解析を再び使えるに設定完了</li>
+<li>下記を作成、各種カテゴリー構成を確認し管理しやすくする。
+Category\ChromeExtension.txt
+Category\Doscmd.txt
+Category\Dropbox.txt
+Category\Evernote.txt
+Category\EvernoteAutohotkey.txt
+Category\EvernoteUwsc.txt
+Category\PowerShell.txt
+Category\UWSCCategoryParts.txt
+Category\UwscClassParts.txt
+Category\UwscExcel.txt
+Category\Autohotkey.txt
+Category\AutohotkeyCategoryParts.txt
+Category\AutohotkeyClassParts.txt</li>
