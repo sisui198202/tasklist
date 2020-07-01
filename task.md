@@ -102,3 +102,4 @@ Category\AutohotkeyClassParts.txt</li>
 -----01日作業分-----
 
 <li>youtubeたにぐちまことさんのjavascript講座をやる</li>
+<li>typescript1と2完了</li>
