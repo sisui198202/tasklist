@@ -103,3 +103,4 @@ Category\AutohotkeyClassParts.txt</li>
 
 <li>youtubeたにぐちまことさんのjavascript講座をやる</li>
 <li>typescript1と2完了</li>
+<li>typescript環境構築完了</li>
