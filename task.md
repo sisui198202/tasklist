@@ -104,3 +104,8 @@ Category\AutohotkeyClassParts.txt</li>
 <li>youtubeたにぐちまことさんのjavascript講座をやる</li>
 <li>typescript1と2完了</li>
 <li>typescript環境構築完了</li>
+<li>powershell ExecutionPolicyを検証</li>
+
+-----01日作業分-----
+
+<li>転職活動資料作成する。</li>
