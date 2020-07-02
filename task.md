@@ -109,3 +109,7 @@ Category\AutohotkeyClassParts.txt</li>
 -----01日作業分-----
 
 <li>転職活動資料作成する。</li>
+
+-----02日作業分-----
+
+<li>youtubeたにぐちまことさんのtypescriptやる。</li>
