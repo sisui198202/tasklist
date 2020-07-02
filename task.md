@@ -113,3 +113,4 @@ Category\AutohotkeyClassParts.txt</li>
 -----02日作業分-----
 
 <li>youtubeたにぐちまことさんのtypescriptやる。</li>
+<li>"C:\Users\USER\Desktop\UWS\Class\AutohotkeyClassPartsDpinFileOpen.uws"</li>
