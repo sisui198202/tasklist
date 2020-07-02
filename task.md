@@ -115,3 +115,4 @@ Category\AutohotkeyClassParts.txt</li>
 <li>youtubeたにぐちまことさんのtypescriptやる。</li>
 <li>"C:\Users\USER\Desktop\UWS\Class\AutohotkeyClassPartsDpinFileOpen.uws"</li>
 <li>vscode日本語化を実行</li>
+<li>https://www.youtube.com/watch?v=K7FElmt6Jq4</li>
