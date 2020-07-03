@@ -123,3 +123,4 @@ Category\AutohotkeyClassParts.txt</li>
 <li>youtubeたにぐちまことさんのjavasciptをやる。</li>
 <li>vscode 常に上書き保存</li>
 <li>JavaScript入門：JavaScriptで今日の日付を表示しよう をすべて終了</li>
+<li>youtubeのたにぐちまことさんのJavaScript入門： おみくじプログラムを作ってみようを自分でやってみた</li>
