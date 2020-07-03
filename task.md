@@ -125,3 +125,4 @@ Category\AutohotkeyClassParts.txt</li>
 <li>JavaScript入門：JavaScriptで今日の日付を表示しよう をすべて終了</li>
 <li>youtubeのたにぐちまことさんのJavaScript入門： おみくじプログラムを作ってみようを自分でやってみた</li>
 <li>chocolateyでアプリを一気に復元する方法の組み込みをした。</li>
+<li>【ドリル】JavaScriptの変数宣言で適切なのはどれ？を視聴した。</li>
