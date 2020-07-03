@@ -124,3 +124,4 @@ Category\AutohotkeyClassParts.txt</li>
 <li>vscode 常に上書き保存</li>
 <li>JavaScript入門：JavaScriptで今日の日付を表示しよう をすべて終了</li>
 <li>youtubeのたにぐちまことさんのJavaScript入門： おみくじプログラムを作ってみようを自分でやってみた</li>
+<li>chocolateyでアプリを一気に復元する方法の組み込みをした。</li>
