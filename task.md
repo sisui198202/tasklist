@@ -116,3 +116,8 @@ Category\AutohotkeyClassParts.txt</li>
 <li>"C:\Users\USER\Desktop\UWS\Class\AutohotkeyClassPartsDpinFileOpen.uws"</li>
 <li>vscode日本語化を実行</li>
 <li>https://www.youtube.com/watch?v=K7FElmt6Jq4</li>
+<li>TypeScript入門 #02~TypeScript入門 #09：Promise処理で、非同期通信（Ajax）をしよう②まで終了</li>
+
+-----03日作業分-----
+
+<li>youtubeたにぐちまことさんのjavasciptをやる。</li>
