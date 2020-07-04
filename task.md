@@ -127,3 +127,7 @@ Category\AutohotkeyClassParts.txt</li>
 <li>chocolateyでアプリを一気に復元する方法の組み込みをした。</li>
 <li>【ドリル】JavaScriptの変数宣言で適切なのはどれ？を視聴した。</li>
 <li>gitkrakenをインストール</li>
+
+-----07月05日作業分-----
+
+<li>メルカリで買ったJavaScipt&jQueryの本をやる。</li>
