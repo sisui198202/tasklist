@@ -142,3 +142,7 @@ Category\AutohotkeyClassParts.txt</li>
 
 <li>JavaScript&jQuery:たにぐちまこと P140から始める。</li>
 <li>JavaScript&jQuery:たにぐちまことP150まで終了</li>
+
+-----07月07日作業分-----
+
+<li>JavaScript&jQuery:たにぐちまことP151からはじめる。</li>
