@@ -136,3 +136,4 @@ Category\AutohotkeyClassParts.txt</li>
 -----07月06日作業分-----
 
 <li>JavaScript&jQuery P96 ~から始める。</li>
+<li>JavaScript&jQuery:たにぐちまこと P139まで終了</li>
