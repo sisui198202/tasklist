@@ -132,3 +132,7 @@ Category\AutohotkeyClassParts.txt</li>
 
 <li>メルカリで買ったJavaScipt&jQueryの本をやる。</li>
 <li>JavaScript&jQuery P1 ~ P95まで終了</li>
+
+-----07月06日作業分-----
+
+<li>JavaScript&jQuery P96 ~から始める。</li>
