@@ -146,3 +146,4 @@ Category\AutohotkeyClassParts.txt</li>
 -----07月07日作業分-----
 
 <li>JavaScript&jQuery:たにぐちまことP151からはじめる。</li>
+<li>JavaScript&jQuery、最終頁まで完了</li>
