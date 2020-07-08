@@ -147,3 +147,8 @@ Category\AutohotkeyClassParts.txt</li>
 
 <li>JavaScript&jQuery:たにぐちまことP151からはじめる。</li>
 <li>JavaScript&jQuery、最終頁まで完了</li>
+
+-----07月08日作業分-----
+
+<li>udemy pythonをやる。</li>
+<li>基本情報技術者試験の教科書P1 ~ P 32まで終了</li>
