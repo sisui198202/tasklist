@@ -152,3 +152,4 @@ Category\AutohotkeyClassParts.txt</li>
 
 <li>udemy pythonをやる。</li>
 <li>基本情報技術者試験の教科書P1 ~ P 32まで終了</li>
+<li>PythonによるWebスクレイピング 〜Webアプリケーション編の17、BeautifulSoupでデータ抽出2まで終了</li>
