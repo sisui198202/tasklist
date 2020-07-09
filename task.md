@@ -157,3 +157,4 @@ Category\AutohotkeyClassParts.txt</li>
 -----07月09日作業分-----
 
 <li>PythonによるWebスクレイピング 〜Webアプリケーション編の18からやる。</li>
+<li>DBを組み込んだアプリケーションの作成まですべて完了</li>
