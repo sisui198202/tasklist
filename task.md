@@ -163,3 +163,4 @@ Category\AutohotkeyClassParts.txt</li>
 
 <li>pythonのフックキー設定をやる。</li>
 <li>autohotkey、言語によるキーフック設定ができた。</li>
+<li>vscodeでpythonビルド、ショットカットキー「prisc」設定完了</li>
