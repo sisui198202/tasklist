@@ -162,3 +162,4 @@ Category\AutohotkeyClassParts.txt</li>
 -----07月10日作業分-----
 
 <li>pythonのフックキー設定をやる。</li>
+<li>autohotkey、言語によるキーフック設定ができた。</li>
