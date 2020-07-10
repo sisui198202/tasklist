@@ -158,3 +158,7 @@ Category\AutohotkeyClassParts.txt</li>
 
 <li>PythonによるWebスクレイピング 〜Webアプリケーション編の18からやる。</li>
 <li>DBを組み込んだアプリケーションの作成まですべて完了</li>
+
+-----07月10日作業分-----
+
+<li>pythonのフックキー設定をやる。</li>
