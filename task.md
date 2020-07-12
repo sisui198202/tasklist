@@ -171,3 +171,4 @@ Category\AutohotkeyClassParts.txt</li>
 <li>udemy python動画2をやる。</li>
 <li>はじめてのPython3。経験0からGUIアプリケーションを作れるまでの基礎力を！を開始</li>
 <li>はじめてのPython3。経験0からGUIアプリケーションを作れるまでの基礎力を！の26まで終了</li>
+<li>購入動画ファイル編集</li>
