@@ -165,3 +165,8 @@ Category\AutohotkeyClassParts.txt</li>
 <li>autohotkey、言語によるキーフック設定ができた。</li>
 <li>vscodeでpythonビルド、ショットカットキー「prisc」設定完了</li>
 <li>PythonによるWebスクレイピング 〜Webアプリケーション編〜終了</li>
+
+-----07月12日作業分-----
+
+<li>udemy python動画2をやる。</li>
+<li>はじめてのPython3。経験0からGUIアプリケーションを作れるまでの基礎力を！を開始</li>
