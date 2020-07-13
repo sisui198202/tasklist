@@ -172,3 +172,7 @@ Category\AutohotkeyClassParts.txt</li>
 <li>はじめてのPython3。経験0からGUIアプリケーションを作れるまでの基礎力を！を開始</li>
 <li>はじめてのPython3。経験0からGUIアプリケーションを作れるまでの基礎力を！の26まで終了</li>
 <li>購入動画ファイル編集</li>
+
+-----07月13日作業分-----
+
+<li>はじめてのPython3。経験0からGUIアプリケーションを作れるまでの基礎力を！wo</li>
