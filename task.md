@@ -183,3 +183,4 @@ Category\AutohotkeyClassParts.txt</li>
 
 <li>はじめてのPython3。経験0からGUIアプリケーションを作れるまでの基礎力を！49からやる。</li>
 <li>はじめてのPython3。経験0からGUIアプリケーションを作れるまでの基礎力を！65まで終了</li>
+<li>udemyがキャンペーンだったので、pythonやDockerの動画が複数購入</li>
