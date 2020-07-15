@@ -190,3 +190,4 @@ Category\AutohotkeyClassParts.txt</li>
 <li>はじめてのPython3。経験0からGUIアプリケーションを作れるまでの基礎力を！の続きからやる。</li>
 <li>はじめてのPython3。経験0からGUIアプリケーションを作れるまでの基礎力を！83まで終了</li>
 <li>udemyでpythonの動画2つ購入</li>
+<li>購入動画ファイル入力</li>
