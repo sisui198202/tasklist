@@ -200,3 +200,4 @@ Category\AutohotkeyClassParts.txt</li>
 -----07月20日作業分-----
 
 <li>はじめてのPython3。経験0からGUIアプリケーションを作れるまでの基礎力を！107からやる。</li>
+<li>はじめてのPython3。経験0からGUIアプリケーションを作れるまでの基礎力を！終了</li>
