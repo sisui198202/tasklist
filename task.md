@@ -201,3 +201,4 @@ Category\AutohotkeyClassParts.txt</li>
 
 <li>はじめてのPython3。経験0からGUIアプリケーションを作れるまでの基礎力を！107からやる。</li>
 <li>はじめてのPython3。経験0からGUIアプリケーションを作れるまでの基礎力を！終了</li>
+<li>pythonマウス操作ライブラリー検証</li>
