@@ -209,3 +209,4 @@ Category\AutohotkeyClassParts.txt</li>
 <li>uwscの既存関数をpythonのコードに置き換えをやる。</li>
 <li>pip freeze一覧にある外部ライブラリーをすべて検索して、ファイルにまとめた。</li>
 <li>pythonのカテゴリー別ファイルを作成して、今まで学んだコードをすべてカテゴリー別に整理した。</li>
+<li>pythonでのクリップボード操作を検証し、uwscのautohotkeyでキー設定しているキーフックでpythonに設定</li>
