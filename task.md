@@ -207,3 +207,5 @@ Category\AutohotkeyClassParts.txt</li>
 -----07月21日作業分-----
 
 <li>uwscの既存関数をpythonのコードに置き換えをやる。</li>
+<li>pip freeze一覧にある外部ライブラリーをすべて検索して、ファイルにまとめた。</li>
+<li>pythonのカテゴリー別ファイルを作成して、今まで学んだコードをすべてカテゴリー別に整理した。</li>
