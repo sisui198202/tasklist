@@ -203,3 +203,7 @@ Category\AutohotkeyClassParts.txt</li>
 <li>はじめてのPython3。経験0からGUIアプリケーションを作れるまでの基礎力を！終了</li>
 <li>pythonマウス操作ライブラリー検証</li>
 <li>pythonのファイル読み書きコードをautohotkeyに設定</li>
+
+-----07月21日作業分-----
+
+<li>uwscの既存関数をpythonのコードに置き換えをやる。</li>
