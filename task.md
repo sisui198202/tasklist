@@ -210,3 +210,7 @@ Category\AutohotkeyClassParts.txt</li>
 <li>pip freeze一覧にある外部ライブラリーをすべて検索して、ファイルにまとめた。</li>
 <li>pythonのカテゴリー別ファイルを作成して、今まで学んだコードをすべてカテゴリー別に整理した。</li>
 <li>pythonでのクリップボード操作を検証し、uwscのautohotkeyでキー設定しているキーフックでpythonに設定</li>
+
+-----07月22日作業分-----
+
+<li>pythonでuwscの既存関数を作成するサイト読み込み検証。</li>
