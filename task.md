@@ -214,3 +214,4 @@ Category\AutohotkeyClassParts.txt</li>
 -----07月22日作業分-----
 
 <li>pythonでuwscの既存関数を作成するサイト読み込み検証。</li>
+<li>スクリプトハブコード、旧命名規則から新命名規則に編集</li>
