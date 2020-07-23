@@ -220,3 +220,4 @@ Category\AutohotkeyClassParts.txt</li>
 -----07月23日作業分-----
 
 <li>PythonによるWebスクレイピング〜入門編〜【業務効率化への第一歩】をやる。</li>
+<li>uwscとpythonファイルをボタン選択でファイル作成スクリプト作成</li>
