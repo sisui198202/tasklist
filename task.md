@@ -221,3 +221,5 @@ Category\AutohotkeyClassParts.txt</li>
 
 <li>PythonによるWebスクレイピング〜入門編〜【業務効率化への第一歩】をやる。</li>
 <li>uwscとpythonファイルをボタン選択でファイル作成スクリプト作成</li>
+<li>vscodeでjupyter noteを操作できることを発見、どういうふうに使えるかも検証できた。</li>
+<li>コマンドプロンプトでjupyter noteを起動でchromeで起動はできなかった。</li>
