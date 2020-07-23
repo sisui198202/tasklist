@@ -216,3 +216,7 @@ Category\AutohotkeyClassParts.txt</li>
 <li>pythonでuwscの既存関数を作成するサイト読み込み検証。</li>
 <li>スクリプトハブコード、旧命名規則から新命名規則に編集</li>
 <li>uwscをpythonに置き換えるサイトの検証をざっとやった。</li>
+
+-----07月23日作業分-----
+
+<li>PythonによるWebスクレイピング〜入門編〜【業務効率化への第一歩】をやる。</li>
