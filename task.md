@@ -231,3 +231,4 @@ Category\AutohotkeyClassParts.txt</li>
 
 <li>PythonによるWebスクレイピング〜入門編〜【業務効率化への第一歩】16からやる。</li>
 <li>PythonによるWebスクレイピング〜入門編〜【業務効率化への第一歩】</li>
+<li>Pythonによるビジネスに役立つWebスクレイピング（BeautifulSoup、Selenium、Requests）15%終了</li>
