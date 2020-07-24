@@ -230,3 +230,4 @@ Category\AutohotkeyClassParts.txt</li>
 -----07月24日作業分-----
 
 <li>PythonによるWebスクレイピング〜入門編〜【業務効率化への第一歩】16からやる。</li>
+<li>PythonによるWebスクレイピング〜入門編〜【業務効率化への第一歩】</li>
