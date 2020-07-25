@@ -232,3 +232,8 @@ Category\AutohotkeyClassParts.txt</li>
 <li>PythonによるWebスクレイピング〜入門編〜【業務効率化への第一歩】16からやる。</li>
 <li>PythonによるWebスクレイピング〜入門編〜【業務効率化への第一歩】</li>
 <li>Pythonによるビジネスに役立つWebスクレイピング（BeautifulSoup、Selenium、Requests）15%終了</li>
+<li>jupter notebook利用方法、効率歴な手順、ショットカットキー検証</li>
+
+-----07月25日作業分-----
+
+<li>Pythonによるビジネスに役立つWebスクレイピング（BeautifulSoup、Selenium、Requests）の続きからやる。</li>
