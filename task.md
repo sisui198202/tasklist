@@ -242,3 +242,4 @@ Category\AutohotkeyClassParts.txt</li>
 -----07月26日作業分-----
 
 <li>Pythonによるビジネスに役立つWebスクレイピング（BeautifulSoup、Selenium、Requests）の続きからやる。</li>
+<li>Pythonによるビジネスに役立つWebスクレイピング（BeautifulSoup、Selenium、Requests）39まで終了</li>
