@@ -254,3 +254,4 @@ Category\AutohotkeyClassParts.txt</li>
 
 <li>Pythonによるビジネスに役立つWebスクレイピング（BeautifulSoup、Selenium、Requests）103からやる。</li>
 <li>Pythonによるビジネスに役立つWebスクレイピング（BeautifulSoup、Selenium、Requests）終了</li>
+<li>スクレイピングファイルの中身を整理</li>
