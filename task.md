@@ -255,3 +255,4 @@ Category\AutohotkeyClassParts.txt</li>
 <li>Pythonによるビジネスに役立つWebスクレイピング（BeautifulSoup、Selenium、Requests）103からやる。</li>
 <li>Pythonによるビジネスに役立つWebスクレイピング（BeautifulSoup、Selenium、Requests）終了</li>
 <li>スクレイピングファイルの中身を整理</li>
+<li>【徹底的に解説！】人工知能・機械学習エンジニア養成講座（初級編～統計学から数字認識まで～）33まで終了</li>
