@@ -287,3 +287,4 @@ Category\AutohotkeyClassParts.txt</li>
 
 <li>手を動かして学ぶAI開発入門！人工知能の意味からモデル構築・RPA連携・サーバレス開発続きからやる。</li>
 <li>キーワードの画像結果をダウンロードするスクリプト作成、色々検証</li>
+<li>pythonファイル読書きコードまとめ</li>
