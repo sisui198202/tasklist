@@ -289,3 +289,7 @@ Category\AutohotkeyClassParts.txt</li>
 <li>キーワードの画像結果をダウンロードするスクリプト作成、色々検証</li>
 <li>pythonファイル読書きコードまとめ</li>
 <li>画像ダウンロードスクリプトコード分からないコード、requests.get(str,stream=True)、io.BytesIOを調べた。</li>
+
+-----08月04日作業分-----
+
+<li>画像ダウンロードスクリプトコード分からないコード、requests.get(str,stream=True)、io.BytesIOを調べ続きをやる。</li>
