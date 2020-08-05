@@ -295,3 +295,7 @@ Category\AutohotkeyClassParts.txt</li>
 <li>画像ダウンロードスクリプトコード分からないコード、requests.get(str,stream=True)、io.BytesIOを調べ続きをやる。</li>
 <li>jupyter notebookの便利さは、GETACTIVEOLEOBJみたいにアクティブなウィンドウを操作できるので、いちいち何度もブラウザーを起動して検証する必要がなくなるということなんです。</li>
 <li>手を動かして学ぶAI開発入門！人工知能の意味からモデル構築・RPA連携・サーバレス開発まで36まで終了</li>
+
+-----08月05日作業分-----
+
+<li>手を動かして学ぶAI開発入門！人工知能の意味からモデル構築・RPA連携・サーバレス開発まで37からやる。</li>
