@@ -339,3 +339,4 @@ Category\AutohotkeyClassParts.txt</li>
 
 <li>挨拶から店舗予約まで！手を動かして学ぶAIチャットボット開発入門73からやる。</li>
 <li>d払い設定完了</li>
+<li>挨拶から店舗予約まで！手を動かして学ぶAIチャットボット開発入門終了</li>
