@@ -400,5 +400,5 @@ Category\AutohotkeyClassParts.txt</li>
 <li>Macを購入、Macの使い方を検証、Jisキーボードとusキーボードの違い使い方を色々検証、karabiner使い方を学ぶ。</li>
 -----09月08日作業分-----
 <li>karabineのKE-complexを色々検証し、githubで自分のオリジナルキー設定を反映できるようになった。</li>>
-
+<li>自分用のKE-complexを作成中、とっかかりはできたので満足。</li>>
 
