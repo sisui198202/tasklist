@@ -401,4 +401,5 @@ Category\AutohotkeyClassParts.txt</li>
 -----09月08日作業分-----
 <li>karabineのKE-complexを色々検証し、githubで自分のオリジナルキー設定を反映できるようになった。</li>>
 <li>自分用のKE-complexを作成中、とっかかりはできたので満足。</li>>
-
+-----09月09日作業分-----
+<li>Web上から作成したキー設定をKE-complexでコード作成</li>>
