@@ -407,4 +407,7 @@ Category\AutohotkeyClassParts.txt</li>
 <li>USキーボードでどの指でkeyを押すのが効率的を考える。押すkeyと押す指を固定を考える。</li>
 -----09月11日作業分-----
 <li>KE-complexで自分用のキー処理のコードを書く。</li>
+-----09月12日作業分-----
+<li>引き続き、KE-complexで自分用のキー処理のコードを書く、特定のアプリと特定のアプリ以外の処理も操作できるようになった。</li>>
+<li>parallels Desttopを購入。</li>>
 
