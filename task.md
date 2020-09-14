@@ -410,4 +410,6 @@ Category\AutohotkeyClassParts.txt</li>
 -----09月12日作業分-----
 <li>引き続き、KE-complexで自分用のキー処理のコードを書く、特定のアプリと特定のアプリ以外の処理も操作できるようになった。</li>>
 <li>parallels Desttopを購入。</li>>
-
+-----09月13日作業分-----
+<li>KE-complexで特定のアプリ(Finder,sublime)用を作成</li>>
+<li>KE-complexで直接入力で数字入力ができるようにした。</li>>
