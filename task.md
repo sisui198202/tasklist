@@ -415,3 +415,7 @@ Category\AutohotkeyClassParts.txt</li>
 <li>KE-complexで特定のアプリ(Finder,sublime)用を作成</li>>
 <li>KE-complexで直接入力で数字入力ができるようにした。</li>>
 <li>先生・学生・新社会人の方へ！スクラッチで学ぶAIに負けない人材になるためのプログラミング超入門終了</li>>
+-----09月14日作業分-----
+<li>keyhacのインストールやkeyhacの使い方を色々調査検証</li>>
+<li>pythonのPipenvとpyenvをインストールし、使い方を検証</li>>
+<li>icollectionアプリインストール、使い方検証</li>>
