@@ -419,3 +419,9 @@ Category\AutohotkeyClassParts.txt</li>
 <li>keyhacのインストールやkeyhacの使い方を色々調査検証</li>>
 <li>pythonのPipenvとpyenvをインストールし、使い方を検証</li>>
 <li>icollectionアプリインストール、使い方検証</li>>
+-----09月16日作業分-----
+<li>iCollection検証</li>>
+<li>Parellels Desttopで、WindowsとMacのパスを切り分けて使用できるようになった。</li>>
+<li>Windowsでのautohotkey設定色々検証してみたが、うまくキーアサイン設定ができない。</li>>
+<li>MacとWindowsでのSublimeプラグイン設定をした。</li>>
+<li>karaviner起動時にKeyhacで設定したキー割り当てがうまくできた。</li>>
