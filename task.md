@@ -424,4 +424,7 @@ Category\AutohotkeyClassParts.txt</li>
 <li>Parellels Desttopで、WindowsとMacのパスを切り分けて使用できるようになった。</li>>
 <li>Windowsでのautohotkey設定色々検証してみたが、うまくキーアサイン設定ができない。</li>>
 <li>MacとWindowsでのSublimeプラグイン設定をした。</li>>
-<li>karaviner起動時にKeyhacで設定したキー割り当てがうまくできた。</li>>
+<li>karaviner起動時にKeyhacで設定したキー割り当てがうまくできた。</li>
+-----09月17日作業分-----
+<li>Windowsで直接入力とローマ字入力ができるようになった。仮想キーf13を作成し、f13にGoogle日本語入力のプロパティから仮想キー13にIme有効化・無効化割当でできた。</li>
+<li>windowsで以前作っていたautohotkeyコードをMacのパラレルデスクトップのWindowsでの反映の目処がたった。</li>>
