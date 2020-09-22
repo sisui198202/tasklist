@@ -428,3 +428,20 @@ Category\AutohotkeyClassParts.txt</li>
 -----09月17日作業分-----
 <li>Windowsで直接入力とローマ字入力ができるようになった。仮想キーf13を作成し、f13にGoogle日本語入力のプロパティから仮想キー13にIme有効化・無効化割当でできた。</li>
 <li>windowsで以前作っていたautohotkeyコードをMacのパラレルデスクトップのWindowsでの反映の目処がたった。</li>>
+<li>Windowsで直接入力とローマ字入力ができるようになった。仮想キーf13を作成し、f13にGoogle日本語入力のプロパティから仮想キー13にIme有効化・無効化割当でできた。</li>
+-----09月18日作業分-----
+<li>uwscとautohotkeyのビルドをSublimeでできるようにした。</li>
+<li>MacとWindowsのユーザーディレクトリ名を変更</li>>
+<li>autohotkeyのキー割り当ての続きを実施。</li>>
+-----09月19日作業分-----
+<li>Dropboxは起動できませんでした。通常このエラーは権限エラー、.dropboxフォルダーを削除で解決。</li>
+<li>Leftcommand + hでgaminngリンクが表示されるのも、Windowsキーからのゲーム設定で解決。</li>
+-----09月21日作業分-----
+<li>MacとWindowsのキー置き換え完了</li>>
+<li>Phrase ExpressのBackupError発生したので、アンインストールして再インストールで解決した。</li>>
+<li>Phrase Expressスニペット再登録。</li>>
+-----09月22日作業分-----
+<li>Autohotkey.ahkのコードを新PCに移行ほぼ完了。</li>
+<li>携帯充電をMacbook Airに接続して充電ができるようになった。</li>
+<li>chocllateのlist.config内のインストール分をすべてインストール完了。</li>>
+<li>localインストール、mac と windows両方設定したが、Windowsだけうまくいかない。</li>>
