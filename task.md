@@ -445,3 +445,8 @@ Category\AutohotkeyClassParts.txt</li>
 <li>携帯充電をMacbook Airに接続して充電ができるようになった。</li>
 <li>chocllateのlist.config内のインストール分をすべてインストール完了。</li>>
 <li>localインストール、mac と windows両方設定したが、Windowsだけうまくいかない。</li>>
+-----09月23日作業分-----
+<li>Autohotkey.ahkのコードを新PCに移行残り分を処理</li>
+-----09月24日作業分-----
+<li>IME切り替えをLeftcommand + fで設定、Leftcommand + gで設定</li>
+<li>autohotkeypartsのアプリ別まで終了。</li>
