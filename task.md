@@ -450,3 +450,8 @@ Category\AutohotkeyClassParts.txt</li>
 -----09月24日作業分-----
 <li>IME切り替えをLeftcommand + fで設定、Leftcommand + gで設定</li>
 <li>autohotkeypartsのアプリ別まで終了。</li>
+<li>autohotkeypartsをすべて完了させて、部分ファイルを1つに統合しエラーもなくできた。</li>
+-----09月25日作業分-----
+<li>pythonのターミナル上のpython2.7がデフォルトになっていたのをpython3.7に変更</li>>
+<li>Mac,WindowsのSublimeとVscodeでpythonビルドできているか確認できた。</li>>
+<li>MacのVscodeでpythonのライブラリimportできていない原因は、VscodeのSetting.jsonの"python.pythonPath": "/Users/user/.pyenv/shims/python"に変更した。</li>>
