@@ -455,3 +455,7 @@ Category\AutohotkeyClassParts.txt</li>
 <li>pythonのターミナル上のpython2.7がデフォルトになっていたのをpython3.7に変更</li>>
 <li>Mac,WindowsのSublimeとVscodeでpythonビルドできているか確認できた。</li>>
 <li>MacのVscodeでpythonのライブラリimportできていない原因は、VscodeのSetting.jsonの"python.pythonPath": "/Users/user/.pyenv/shims/python"に変更した。</li>>
+<li>Pythonのahkライブラリーは、Macではつかえない。</li>>
+-----09月26日作業分-----
+<li>KeyHacでキーアサインの設定ができるようになった。</li>>
+<li>KeyHacでEditFileの書き方も理解し、今後のカスタマイズの目処がたった。</li>
