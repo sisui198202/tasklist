@@ -459,3 +459,7 @@ Category\AutohotkeyClassParts.txt</li>
 -----09月26日作業分-----
 <li>KeyHacでキーアサインの設定ができるようになった。</li>>
 <li>KeyHacでEditFileの書き方も理解し、今後のカスタマイズの目処がたった。</li>
+-----09月27日作業分-----
+<li>Keyhac,editfile設定</li>
+-----09月28日作業分-----
+<li>Keyhac,editfile設定,指定ウィンドウを指定キーで呼び出すことに成功。</li>
