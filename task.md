@@ -463,3 +463,9 @@ Category\AutohotkeyClassParts.txt</li>
 <li>Keyhac,editfile設定</li>
 -----09月28日作業分-----
 <li>Keyhac,editfile設定,指定ウィンドウを指定キーで呼び出すことに成功。</li>
+-----09月29日作業分-----
+<li>LeftCommand + Fにひらがな入力、LeftCommandに英数入力を割り当て。</li>>
+<li>KeyHac関数を調査、Macではほとんど使えないようだ。</li>>
+<li>TextExpanderで指定キーでスニペットができる、Keyhacとの競合もなく問題なく使える。</li>>
+<li>Alfredの使い方を調査、LAlt + Sに検索窓表示を割り当て、Webキーワード検索やファイル、フォルダー検索に利用する。</li>>
+<li>TextExpanderにスニペットを登録。</li>>
