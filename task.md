@@ -468,4 +468,12 @@ Category\AutohotkeyClassParts.txt</li>
 <li>KeyHac関数を調査、Macではほとんど使えないようだ。</li>>
 <li>TextExpanderで指定キーでスニペットができる、Keyhacとの競合もなく問題なく使える。</li>>
 <li>Alfredの使い方を調査、LAlt + Sに検索窓表示を割り当て、Webキーワード検索やファイル、フォルダー検索に利用する。</li>>
-<li>TextExpanderにスニペットを登録。</li>>
+<li>TextExpanderにスニペットを登録。</li>
+-----09月30日作業分-----
+<li>LeftCommandで英数入力、RightCommandでローマ字入力に変更、LeftCommand + FでTab、LeftOptionでコピーに変更</li>
+<li>Alfredの有料版の調査、購入することにした。</li>
+<li>pythonでライブラリーautoguiの使い方を調査,検証</li>
+<li>Vscode上からビルドでpythonでライブラリーautoguiのマウスカーソルが移動しない。</li>
+-----10月01日作業分-----
+<li>pythonでpyenvでバージョンを3.7.0から3.7.4に変更し、autoguiの検証うまくできたが、Vscodeからマウス移動は未検証。</li>
+<li>MacのVscodeのショットカットキーをWindowsのVscodeと統一を実行</li>
