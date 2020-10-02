@@ -477,3 +477,7 @@ Category\AutohotkeyClassParts.txt</li>
 -----10月01日作業分-----
 <li>pythonでpyenvでバージョンを3.7.0から3.7.4に変更し、autoguiの検証うまくできたが、Vscodeからマウス移動は未検証。</li>
 <li>MacのVscodeのショットカットキーをWindowsのVscodeと統一を実行</li>
+-----10月02日作業分-----
+<li>Mac・Windowsのmoduleからの自作関数呼び出し成功</li>
+<li>moduleの自作関数ファイルの新規作成、追記、読み込みの検証完了</li>
+<li>MacのSublimeのショットカットキー、RightCommand + HでHtmlタグ入力の効率化できた。</li>
