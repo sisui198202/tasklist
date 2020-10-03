@@ -481,3 +481,7 @@ Category\AutohotkeyClassParts.txt</li>
 <li>Mac・Windowsのmoduleからの自作関数呼び出し成功</li>
 <li>moduleの自作関数ファイルの新規作成、追記、読み込みの検証完了</li>
 <li>MacのSublimeのショットカットキー、RightCommand + HでHtmlタグ入力の効率化できた。</li>
+-----10月03日作業分-----
+<li>Mac、Sublimeショットカットキー,homeとEndうまくファイル先頭、ファイル末カーソル移動できた。</li>
+<li>keyhacの特定ウィンドウがうまくできなかった。</li>
+<li>pythonファイルをターミナルから呼び出しスクリプト実行できた。</li>
