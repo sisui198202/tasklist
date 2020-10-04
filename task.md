@@ -485,3 +485,7 @@ Category\AutohotkeyClassParts.txt</li>
 <li>Mac、Sublimeショットカットキー,homeとEndうまくファイル先頭、ファイル末カーソル移動できた。</li>
 <li>keyhacの特定ウィンドウがうまくできなかった。</li>
 <li>pythonファイルをターミナルから呼び出しスクリプト実行できた。</li>
+<li>Alfredの使い方を色々検証。</li>
+-----10月04日作業分-----
+<li>encode decodeのQita記事参照、検証してファイルにまとめた。</li>
+<li>pythonのファイル操作関数を検証</li>
