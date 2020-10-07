@@ -496,3 +496,7 @@ Category\AutohotkeyClassParts.txt</li>
 <li>もう怖くないLinuxコマンド。手を動かしながらLinuxコマンドラインを5日間で身に付けよう25%まで終了</li>
 <li>BetterTouchTollの使い方を検証</li>
 <li>keyhacの特定ウィンドウのキーアサインがうまくいくときといかない時がある。</li>
+-----10月07日作業分-----
+<li>keyhacのMacのgithubを参照</li>
+<li>スクリーンショットのMonoSnapインストール設定</li>
+<li>もう怖くないLinuxコマンド。手を動かしながらLinuxコマンドラインを5日間で身に付けよう75%まで終了</li>
