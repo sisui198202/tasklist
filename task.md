@@ -500,3 +500,11 @@ Category\AutohotkeyClassParts.txt</li>
 <li>keyhacのMacのgithubを参照</li>
 <li>スクリーンショットのMonoSnapインストール設定</li>
 <li>もう怖くないLinuxコマンド。手を動かしながらLinuxコマンドラインを5日間で身に付けよう75%まで終了</li>
+-----10月09日作業分-----
+<li>もう怖くないLinuxコマンド。手を動かしながらLinuxコマンドラインを5日間で身に付けようDay５
+を終了</li>
+<li>alfredのPower packのファイル操作やSnippet(起動するもvで入力される)やWord Flowの使い方を調査</li>
+<li>BetterTouchToolのchrome上でタブ切り替え、タブ閉じる、タブを新規作成を割り当て、２本指タップや3本指で親と他の指をとじる・離すで快適に操作できるようになった。</li>
+<li>自己アフィリ案件仕込み完了</li>
+<li>KeyhacのF1〜の設定できるか確認</li>
+<li>SublimeのTerminalを使用できるプラグインを追加</li>
