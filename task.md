@@ -508,3 +508,10 @@ Category\AutohotkeyClassParts.txt</li>
 <li>自己アフィリ案件仕込み完了</li>
 <li>KeyhacのF1〜の設定できるか確認</li>
 <li>SublimeのTerminalを使用できるプラグインを追加</li>
+-----10月10日作業分-----
+<li>PC起動後にF1~を使えるようにkaravinerをスタートアップに。</li>
+<li>MnnoSnapをスタートアップに</li>
+<li>Keyhac既存関数を調べたが収穫なし</li>
+<li>BetterTouchToolのFinder,新規ウィンドウやウィンドウとじる動作をキーパッド操作割当</li>
+<li>ParellelsデスクトップのLinuxのダウンロード試したが、反応なし。</li>
+<li>現役シリコンバレーエンジニアが教えるPython 3 入門 + 応用 +アメリカのシリコンバレー流コードスタイルリスト型、辞書型をやった。</li>
