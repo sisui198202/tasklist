@@ -515,3 +515,7 @@ Category\AutohotkeyClassParts.txt</li>
 <li>BetterTouchToolのFinder,新規ウィンドウやウィンドウとじる動作をキーパッド操作割当</li>
 <li>ParellelsデスクトップのLinuxのダウンロード試したが、反応なし。</li>
 <li>現役シリコンバレーエンジニアが教えるPython 3 入門 + 応用 +アメリカのシリコンバレー流コードスタイルリスト型、辞書型をやった。</li>
+-----10月11日作業分-----
+<li>Sublimeで1行セレクトショットカットキーをkeyhacでうまく設定できた。</li>
+<li>Alfredのワークフローの使い方をサイトで検索し、Pythonのファイルだけを検索するワークフローを作成</li>
+<li>udemypython講座を学ぶ。</li>
