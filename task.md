@@ -519,3 +519,5 @@ Category\AutohotkeyClassParts.txt</li>
 <li>Sublimeで1行セレクトショットカットキーをkeyhacでうまく設定できた。</li>
 <li>Alfredのワークフローの使い方をサイトで検索し、Pythonのファイルだけを検索するワークフローを作成</li>
 <li>udemypython講座を学ぶ。</li>
+-----10月12日作業分-----
+<li>現役シリコンバレーエンジニアが教えるPython 3 入門 + 応用 +アメリカのシリコンバレー流コードスタイル,関数等をやった。</li>>
