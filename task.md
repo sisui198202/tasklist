@@ -545,3 +545,5 @@ Category\AutohotkeyClassParts.txt</li>
 <li>現役シリコンバレーエンジニアが教えるPython 3 入門 + 応用 +アメリカのシリコンバレー流コードスタイル,Flask,keyhacで指定キーで自分で作成したモジュール名を呼び出しての関数処理を呼び出すことに成功、keyhacの仕様を色々ためした、pyautoguiが使えない、SubProcessCallCommandで'python ファイル名.pyでpython処理がうまくよびだせない。</li>
 -----10月26日作業分-----
 <li>現役シリコンバレーエンジニアが教えるPython 3 入門 + 応用 +アメリカのシリコンバレー流コードスタイル,pythonのunittest、keyhacのoriginalコードを書いた。</li>
+-----10月27日作業分-----
+<li>現役シリコンバレーエンジニアが教えるPython 3 入門 + 応用 +アメリカのシリコンバレー流コードスタイル,pythonのスレッド、メモリ-、プロセス共有関係を学ぶ、60%まで終了</li>
