@@ -553,4 +553,5 @@ Category\AutohotkeyClassParts.txt</li>
 <li>現役シリコンバレーエンジニアが教えるPython 3 入門 + 応用 +アメリカのシリコンバレー流コードスタイル,collectionsライブラリーを学ぶ、70%まで終了</li>
 <li>LeftCommandがSublime上で暴発してしまった、対処方法として、LeftCommand→user0に置き換えてkeyhacを編集するも、LeftCommand + commna,LeftCommand + periodのショットカットキーがうまく起動しない、よって、LeftCommand→user0に置き換え前に戻したら、暴発はしなくなった。原因不明。</li>
 <li>evernoteのkeyhacの設定をdisableにした。</li>
-
+-----10月30日作業分-----
+<li>現役シリコンバレーエンジニアが教えるPython 3 入門 + 応用 +アメリカのシリコンバレー流コードスタイル,format他を学ぶ、75%まで終了</li>
