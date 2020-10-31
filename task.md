@@ -555,3 +555,5 @@ Category\AutohotkeyClassParts.txt</li>
 <li>evernoteのkeyhacの設定をdisableにした。</li>
 -----10月30日作業分-----
 <li>現役シリコンバレーエンジニアが教えるPython 3 入門 + 応用 +アメリカのシリコンバレー流コードスタイル,format他を学ぶ、75%まで終了</li>
+-----10月31日作業分-----
+<li>現役シリコンバレーエンジニアが教えるPython 3 入門 + 応用 +アメリカのシリコンバレー流コードスタイル,tkinterで計算機アプリを作成、75%まで終了</li>
